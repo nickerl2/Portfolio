@@ -34,6 +34,7 @@ Hi, I'm Adam Nickerl ([Linkedin](https://www.linkedin.com/in/adam-nickerl-480b15
 * Experience working in multiple SWDL models, including traditional waterfall and a more agile-based organization
 * Data Structures & Algorithms - recently remastered by taking the extremely rigorous University of Utah's Algorithms and Data Structures course, receiving an A+
 * Experience programming in OOP and Functional programming paradigms
-* Testing methodologies - black-box testing (partition testing, BVA testing, decision table testing, & state transition testing) & white-box testing (statement & branch coverage)
+* Testing methodologies - black-box testing & white-box testing
+* Working knowledge of Test-driven Design and other shift-left design methodologies
 * Meticulous documentation & docstrings/commenting - just a little obsessive about neat code
 
